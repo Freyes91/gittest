@@ -1,1 +1,1 @@
-print('que hongo')
+print('que hongo venenoso')
